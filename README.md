@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nitinojha-king
+- 👋 Hi, I’m @nitinojha
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning react
+- 🌱 I’m have learned react node next 
 - 💞️ I’m looking to collaborate on new project and making some good connection
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
